@@ -2,7 +2,7 @@
 
 ![method](./method.png)
 
-Paper with supplementary material: [arixv link](https://arxiv.org/abs/2501.03383)
+Paper with supplementary material: [arixv link](https://arxiv.org/abs/2501.04975)
 
 `code_appendix` folder contains the code for concept filtering described in the paper.
 
