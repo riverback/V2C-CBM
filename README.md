@@ -1,6 +1,6 @@
 # V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer (AAAI2025)
 
-![method](./method.png)
+![poster](./poster.png)
 
 Paper with supplementary material: [arixv link](https://arxiv.org/abs/2501.04975)
 
