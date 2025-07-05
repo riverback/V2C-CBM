@@ -1,0 +1,1 @@
+These class2concepts can be used in LaBo's training code to build our V2C-CBM.
